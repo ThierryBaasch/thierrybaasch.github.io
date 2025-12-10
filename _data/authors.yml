@@ -1,18 +1,8 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Thierry Baasch"
+  uri         : "https://portal.research.lu.se/en/persons/thierry-baasch/"
+  email       : "thierry.baasch@bme.lth.se"
+  bio         : "Thierry's research interests focus on applying analytical and numerical modeling to enhance, optimize, and innovate acoustophoresis and other lab-on-a-chip applications. This is achieved through thorough experimental validation and carefully developed theories. Current projects aim at optimizing the throughput, efficiency, and reproducibility of acoustophoresis chips, as well as gaining additional control of the particle trajectories. His research interests include physical modeling and computational methods, e.g. acoustics, wave-motion, multibody and non-smooth mechanics, control theory, finite-element methods, and machine learning."
+  avatar      : "TB_GIT_Site.jpg"
