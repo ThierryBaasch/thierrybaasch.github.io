@@ -23,7 +23,7 @@ repository               : "https://thierrybaasch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile3.png"
+  avatar           : "profile2.png"
   name             : "Thierry Baasch"
   pronouns         : # example: "she/her"  
   bio              : "Dr. sc. ETH Zürich"
