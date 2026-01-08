@@ -70,7 +70,7 @@ T. Baasch, W. Qiu, and T. Laurell
 Physical Review Applied, 18(1), 014021 (2022) [(pdf)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.18.014021)    
 
 14.	[Enhancement of acoustic energy density in bulk-wave-acoustophoresis devices using side actuation](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.044043)  
-W. Qiu, T. Baasch*, and T. Laurell  
+W. Qiu, T. Baasch, and T. Laurell  
 Physical Review Applied, 17(4), 044043 (2022) [(pdf)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.17.044043)  
 
 13.	[Inertia-induced breakdown of acoustic sorting efficiency at high flow rates](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.034014)  
@@ -89,8 +89,8 @@ Journal of Physics D: Applied Physics, 54(35), 355401 (2021) [(pdf)](https://iop
 
 **2020**
 
-10.	T. Baasch, and J. Dual  
-[Acoustic radiation force on a spherical fluid or solid elastic particle placed close to a fluid or solid elastic half-space](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.024052)
+10. [Acoustic radiation force on a spherical fluid or solid elastic particle placed close to a fluid or solid elastic half-space](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.024052)  
+T. Baasch, and J. Dual  
 Physical Review Applied, 14(2), 024052 (2020). [(pdf)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.14.024052)
 
 9. [Acoustic streaming outside and inside a fluid particle undergoing monopole and dipole oscillations](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.013108)  
@@ -100,13 +100,13 @@ Physical Review E, 101(1), 013108 (2020) [(pdf)](https://journals.aps.org/pre/pd
 **2019**
 
 8. [Acoustic radiation force acting on a heavy particle in a standing wave can be dominated by the acoustic microstreaming](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.061102)  
-T. Baasch, A. Pavlic, and J. Dual  
+T. Baasch*, A. Pavlic*, and J. Dual  
 Physical Review E, 100(6), 061102 (2019)  
 
 **2018**
 
 7.	[Acoustic compressibility of Caenorhabditis elegans](https://www.cell.com/biophysj/fulltext/S0006-3495(18)31068-3)  
-T. Baasch, P. Reichert, S. Lakämper, N. Vertti-Quintero, G. Hack, X. C. i Solvas, A. DeMello, R. Gunawan, and J. Dual 
+T. Baasch*, P. Reichert*, S. Lakämper, N. Vertti-Quintero, G. Hack, X. C. i Solvas, A. DeMello, R. Gunawan, and J. Dual 
 Biophysical journal, 115(9), 1817-1825 (2018) [(pdf)](https://www.cell.com/action/showPdf?pii=S0006-3495%2818%2931068-3)
 
 6.	[Acoustofluidic particle dynamics: Beyond the Rayleigh limit](https://pubs.aip.org/asa/jasa/article-abstract/143/1/509/616108/Acoustofluidic-particle-dynamics-Beyond-the?redirectedFrom=fulltext)  
