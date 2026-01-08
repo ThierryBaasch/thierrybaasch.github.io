@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Last updated 8. January 2026.
+*denotes shared first authorship  
 
 Publications in peer-reviewed scientific journals  
-*denotes shared first authorship
 ------
 
 **2026**  
@@ -51,7 +51,6 @@ Physical Review Applied, 22(4), 044049 (2024) [(pdf)](https://journals.aps.org/p
 18.	[Eckart streaming with nonlinear high-order harmonics: An example at gigahertz](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.084201)   
 S. Li, W. Cui, T. Baasch, B. Wang, and Z. Gong  
 Physical Review Fluids, 9(8), 084201 (2024) [(pdf)](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.9.084201)
-
 
 17.	[Silica seed particles improve the efficiency and throughput of nanoparticle acoustic trapping](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.034016)  
 M. Havers, T. Baasch, A. Lenshof, M. Evander, and T. Laurell.  
