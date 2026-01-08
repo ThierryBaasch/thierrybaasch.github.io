@@ -13,14 +13,24 @@ Last updated 8. January 2026.
 
 Publications in peer-reviewed scientific journals
 ------
+**2026**  
 25. [Acoustofluidic Plasmapheresis System Designed for Ultralow Blood Volume Applications.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c04042)  
-Nath, A., Larsson, S. M., Lenshof, A., Qiu, W., **Baasch, T.**, Nilsson, L., Thymann T., Pankratova S., Gram M. and Laurell, T.  
-Analytical Chemistry. (2026). ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c04042?ref=article_openPDF))  
+A. Nath, S. M. Larsson,  A. Lenshof, W. Qiu, **T. Baasch**, L. Nilsson, T. Thymann, S. Pankratova, M. Gram and T. Laurell  
+Analytical Chemistry (2026) ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c04042?ref=article_openPDF))  
+**2025**  
+24.	[Acoustic Nanoparticle Trapping Is Driven by Synergy between Acoustic and Hydrodynamic Interactions](https://journals.aps.org/prl/abstract/10.1103/6l7z-bjzy)  
+A. Pavlič, and **T. Baasch**  
+Physical Review Letters, 135(18), 187201 (2025) ([pdf](https://journals.aps.org/prl/pdf/10.1103/6l7z-bjzy))  
 
-24.	Pavlič, A., & **Baasch, T.** (2025). Acoustic Nanoparticle Trapping Is Driven by Synergy between Acoustic and Hydrodynamic Interactions. Physical Review Letters, 135(18), 187201.
-23.	Havers, M., Scott, A. M., Ortenlöf, N., Welinder, C., Ekström, S., **Baasch, T.**, ... & Laurell, T. (2025). Accessing the proteome of extracellular vesicles via rapid acoustic isolation of a minute human blood plasma sample. Analytica Chimica Acta, 344661.
-22.	Nath, A., Larsson, S. M., Lenshof, A., Qiu, W., **Baasch, T.**, Nilsson, L., ... & Laurell, T. (2025). Acoustophoresis-based blood sampling and plasma separation for potentially minimizing sampling-related blood loss. Clinical Chemistry and Laboratory Medicine (CCLM), (0).
-21.	Shi, Q., **Baasch, T.**, Liu, Z., Fornell, A., Werr, G., Barbe, L., & Tenje, M. (2025). Effects of the choice of the continuous phase in droplet microfluidics on internal particle manipulation with acoustophoresis. The Journal of the Acoustical Society of America, 157(6), 4262-4272.
+23. [Accessing the proteome of extracellular vesicles via rapid acoustic isolation of a minute human blood plasma sample.](https://www.sciencedirect.com/science/article/pii/S0003267025010554)  
+M. Havers, A. M. Scott, N. Ortenlöf, C. Welinder, S. Ekström, **T. Baasch**, M. Evander, A. Lenshof, M. Gram, and T. Laurell  
+Analytica Chimica Acta, 344661 (2025) [pdf](https://www.sciencedirect.com/science/article/pii/S0003267025010554/pdfft?md5=3f80cd9e5ec81df70887d9a3ad6a85c3&pid=1-s2.0-S0003267025010554-main.pdf)
+
+22.	[Acoustophoresis-based blood sampling and plasma separation for potentially minimizing sampling-related blood loss](https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0539/html)  
+A. Nath, S. M. Larsson, A. Lenshof, W. Qiu, **T. Baasch**, L. Nilsson, M. Gram, D. Ley, and T. Laurell   
+Clinical Chemistry and Laboratory Medicine (CCLM), (0). (2025) [(pdf)](https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0539/pdf?licenseType=open-access) 
+
+21.	Q. Shi, **T. Baasch**, Z. Liu, A. Fornell, G. Werr, L. Barbe, and M. Tenje (2025). Effects of the choice of the continuous phase in droplet microfluidics on internal particle manipulation with acoustophoresis. The Journal of the Acoustical Society of America, 157(6), 4262-4272.
 20.	**Baasch, T.**, Edthofer, A., Péroux, L., Rengbrandt, O., Silversand, L., Lenshof, A., & Laurell, T. (2025). Optimizing the quality of acoustophoretic separation by the in-flow mobility-ratio method. Physical Review Applied, 23(1), 014054.
 19.	**Baasch, T.**, Qiu, W., & Laurell, T. (2024). Whole-channel acoustic energy and acoustophoretic efficiency frequency spectrum by the in-flow focusing method. Physical Review Applied, 22(4), 044049.
 18.	Li, S., Cui, W., **Baasch, T.**, Wang, B., & Gong, Z. (2024). Eckart streaming with nonlinear high-order harmonics: An example at gigahertz. Physical Review Fluids, 9(8), 084201.
