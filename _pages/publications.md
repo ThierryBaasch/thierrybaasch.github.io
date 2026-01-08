@@ -12,7 +12,7 @@ redirect_from:
 Last updated 8. January 2026.
 
 Publications in peer-reviewed scientific journals
-======
+------
 25.	Nath, A., Larsson, S. M., Lenshof, A., Qiu, W., **Baasch, T.**, Nilsson, L., ... & Laurell, T. (2026). Acoustofluidic Plasmapheresis System Designed for Ultralow Blood Volume Applications. Analytical Chemistry.
 24.	Pavlič, A., & **Baasch, T.** (2025). Acoustic Nanoparticle Trapping Is Driven by Synergy between Acoustic and Hydrodynamic Interactions. Physical Review Letters, 135(18), 187201.
 23.	Havers, M., Scott, A. M., Ortenlöf, N., Welinder, C., Ekström, S., **Baasch, T.**, ... & Laurell, T. (2025). Accessing the proteome of extracellular vesicles via rapid acoustic isolation of a minute human blood plasma sample. Analytica Chimica Acta, 344661.
@@ -40,13 +40,12 @@ Publications in peer-reviewed scientific journals
 1.	Hahn, P., Leibacher, I., **Baasch, T.**, & Dual, J. (2015). Numerical simulation of acoustofluidic manipulation by radiation forces and acoustic streaming for complex particles. Lab on a Chip, 15(22), 4302-4313.
 
 Preprints
-======
-
+------
 1.	 Perticarari, G., Wu, D., & **Baasch, T.** (2025). The Feasibility of Acoustophoresis Multimodal Control. arXiv preprint arXiv:2510.06116.
 2.	Wu, D., Perticarari, G., & **Baasch, T.** (2025). Controllability Analysis of Multi-Modal Acoustic Particle Manipulation in One-Dimensional Standing Waves. arXiv preprint arXiv:2504.03296.
 
 Theses
-======
+------
 1. Baasch, T. PhD Thesis (2020) Theoretical and numerical analysis of acoustically induced particle motion and streaming. [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/603ffe64-b81a-44cd-b82c-2e5686ccb69b/download)
 2. Baasch, T. Master's Thesis (2014) Computing Large-Scale Non-Smooth Dynamics on the GPU. [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/772ab1d4-92b1-4333-94a2-ff948e021dd0/download)
 3. Baasch, T. Bachelor's Thesis (2012) Model Based Analysis of a Pulsatile Left Ventricular Assist Device
