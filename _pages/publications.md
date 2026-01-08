@@ -13,9 +13,9 @@ Last updated 8. January 2026.
 
 Publications in peer-reviewed scientific journals
 ------
-25. [Acoustofluidic Plasmapheresis System Designed for Ultralow Blood Volume Applications.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c04042)
-Nath, A., Larsson, S. M., Lenshof, A., Qiu, W., **Baasch, T.**, Nilsson, L., Thymann T., Pankratova S., Gram M. and Laurell, T. 
-Analytical Chemistry. (2026). ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c04042?ref=article_openPDF))
+25. [Acoustofluidic Plasmapheresis System Designed for Ultralow Blood Volume Applications.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c04042)  
+Nath, A., Larsson, S. M., Lenshof, A., Qiu, W., **Baasch, T.**, Nilsson, L., Thymann T., Pankratova S., Gram M. and Laurell, T.  
+Analytical Chemistry. (2026). ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c04042?ref=article_openPDF))  
 
 24.	Pavlič, A., & **Baasch, T.** (2025). Acoustic Nanoparticle Trapping Is Driven by Synergy between Acoustic and Hydrodynamic Interactions. Physical Review Letters, 135(18), 187201.
 23.	Havers, M., Scott, A. M., Ortenlöf, N., Welinder, C., Ekström, S., **Baasch, T.**, ... & Laurell, T. (2025). Accessing the proteome of extracellular vesicles via rapid acoustic isolation of a minute human blood plasma sample. Analytica Chimica Acta, 344661.
