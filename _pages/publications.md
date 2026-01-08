@@ -46,8 +46,10 @@ Preprints
 
 Theses
 ------
-1. Baasch, T. PhD Thesis (2020) Theoretical and numerical analysis of acoustically induced particle motion and streaming. [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/603ffe64-b81a-44cd-b82c-2e5686ccb69b/download)
-2. Baasch, T. Master's Thesis (2014) Computing Large-Scale Non-Smooth Dynamics on the GPU. [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/772ab1d4-92b1-4333-94a2-ff948e021dd0/download)
+1. Baasch, T. PhD Thesis (2020) Theoretical and numerical analysis of acoustically induced particle motion and streaming. 
+  * [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/603ffe64-b81a-44cd-b82c-2e5686ccb69b/download)
+2. Baasch, T. Master's Thesis (2014) Computing Large-Scale Non-Smooth Dynamics on the GPU. 
+  * [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/772ab1d4-92b1-4333-94a2-ff948e021dd0/download)
 3. Baasch, T. Bachelor's Thesis (2012) Model Based Analysis of a Pulsatile Left Ventricular Assist Device
 
 
