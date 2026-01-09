@@ -13,7 +13,7 @@ Education
 ------
 * Dr. sc. ETH Zürich in Mechanical Engineering, ETH Zürich, Switzerland. 
   * Thesis title: Theoretical and numerical analysis of acoustically induced particle motion and streaming. 
-* MSc. ETH Zürich in Mechanical Enginering, ETH Zürich, Switzerland, Switzerland. 
+* MSc. ETH Zürich in Mechanical Enginering, ETH Zürich, Switzerland. 
   * Thesis title: Computing Large-Scale Non-Smooth Dynamics on the GPU
 * BSc. ETH Zürich in Mechanical Engineering, ETH Zürich, Switzerland. 
   * Thesis title: Model Based Analysis of a Pulsatile Left Ventricular Assist Device
