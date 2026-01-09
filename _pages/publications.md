@@ -144,6 +144,7 @@ Preprints
 1\.	[The Feasibility of Acoustophoresis Multimodal Control](https://arxiv.org/abs/2510.06116)  
 G. Perticarari, D. Wu, and T. Baasch  
 arXiv preprint arXiv:2510.06116. (2025) ([pdf](https://arxiv.org/pdf/2510.06116))  
+
 2\.	[Controllability Analysis of Multi-Modal Acoustic Particle Manipulation in One-Dimensional Standing Waves](https://arxiv.org/abs/2504.03296)  
 D. Wu, G. Perticarari, and T. Baasch  
 arXiv preprint arXiv:2504.03296. (2025) ([pdf](https://arxiv.org/pdf/2504.03296))
@@ -153,8 +154,10 @@ Theses
 
 1\. T. Baasch PhD Thesis (2020) Theoretical and numerical analysis of acoustically induced particle motion and streaming.  
   * [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/603ffe64-b81a-44cd-b82c-2e5686ccb69b/download)  
+
 2\. T. Baasch Master's Thesis (2014) Computing Large-Scale Non-Smooth Dynamics on the GPU.  
   * [PDF available from the ETH Library](https://www.research-collection.ethz.ch/bitstreams/772ab1d4-92b1-4333-94a2-ff948e021dd0/download)  
+  
 3\. T. Baasch Bachelor's Thesis (2012) Model Based Analysis of a Pulsatile Left Ventricular Assist Device  
 
 
