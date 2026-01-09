@@ -56,7 +56,7 @@ Supervisor: Dr. Thierry Baasch
 
 18. [Buffer optimisation for an improved cell separation using Acoustophoresis with Polystyrene particles, Jurkat, MCF-7 and DU-145 cell lines](https://lup.lub.lu.se/student-papers/search/publication/9141454) [(pdf)](http://lup.lub.lu.se/student-papers/record/9141454/file/9141455.pdf)  
 Lovisa Silversand, Lund University  
-Mster's Thesis in Biomedical Engineering  
+Master's Thesis in Biomedical Engineering  
 Supervisors: Dr. Thierry Baasch and Dr. Andreas Lenshof  
 
 17. [Buffer modification: A case study with polystyrene beads, DU145-, and MCF7 cell lines](https://lup.lub.lu.se/student-papers/search/publication/9129916) [(pdf)](https://lup.lub.lu.se/student-papers/search/publication/9129916)  
